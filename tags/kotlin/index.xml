@@ -18,7 +18,7 @@
       <pubDate>Mon, 22 Jul 2019 08:32:41 +0700</pubDate>
       
       <guid>https://irchanbani.github.io/blog/beam-pattern/</guid>
-      <description>Background For the past two months, me and my team had deployed pipeline using Apache Beam in production environment. The pipeline step is very simple just filter data by event, enrich data by user id, then insert to BigQuery.</description>
+      <description>Background For the past two months, my team and I had deployed pipeline using Apache Beam in a production environment. The pipeline step is very simple just filter data by event, enrich data by user id, then insert to BigQuery.</description>
     </item>
     
   </channel>
